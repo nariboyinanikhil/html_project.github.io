@@ -1,0 +1,55 @@
+body{
+    padding: 30px;
+}
+
+#hello{
+    border-style: solid;
+    margin: 200px;
+   margin-top: auto;
+    padding: 20px;
+    margin-bottom: auto;
+
+}
+
+.img{
+    height: 90px;
+    width: 10px;
+    display: flexbox;
+    
+}
+.head{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}
+#hii{
+    text-align: center;
+}
+.pass{
+    border: none;
+   border-style:solid;
+    width: 70px;
+    position: relative;
+    left: 700px;
+    height: 80px;
+    
+}
+input[type=text]{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 500px;
+}
+#p0{
+    padding: 50px;
+}
+#hee{
+    text-align: right;
+
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
